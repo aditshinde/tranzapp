@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tranzapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">Send</string>
+    <string name="receive">Receive</string>
+    <string name="ip_hint">192.168.1.1</string>
+    <string name="file_not_selected">File Not Selected.</string>
+    <string name="choose_file">Choose File</string>
+    <string name="enter_ip">IP Address Here</string>
+</resources>
